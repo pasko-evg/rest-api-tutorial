@@ -1,2 +1,4 @@
 .idea
 database/dev_data
+logs
+build
